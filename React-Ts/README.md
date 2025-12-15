@@ -43,4 +43,7 @@ This project helps you get comfortable with:
 
 ## Project Only Run on Local browser => http://localhost:3000
 
-
+## You Can See the Project without Cloning 😎
+just go to github Repo URL => https://github.com/Code-With-Ali-Mansoori/Basic-React-Ts-Project/edit/main/React-Ts/
+And Just Put box in th URL like this => https://githubbox.com/Code-With-Ali-Mansoori/Basic-React-Ts-Project/edit/main/React-Ts/ 
+And See the Magic 😏
