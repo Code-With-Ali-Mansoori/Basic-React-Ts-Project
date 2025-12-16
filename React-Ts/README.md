@@ -12,19 +12,6 @@ Perfect starter template to learn React with TypeScript, Context, and component-
 ✨ Mobile-responsive UI  
 ✨ Demonstrates modern React hooks usage
 
-## 📁 Project Structure
-React-Ts/
-├── public/
-├── src/
-│ ├── components/ # UI components
-│ ├── Context/ # Global state (Context API)
-│ ├── CustomHooks/ # Reusable hooks
-│ ├── App.tsx
-│ ├── index.tsx
-│ └── types/ # TS type definitions
-├── package.json
-├── tsconfig.json
-└── README.md
 
 ## 🛠️ Built With
 - **React** — Frontend UI library  
@@ -33,7 +20,8 @@ React-Ts/
 React + TypeScript is one of the most common combinations for scalable, maintainable UI apps. It lets you build type-safe apps with great developer tooling. 
 
 
-🧠 Learning Outcomes 
+
+## 🧠 Learning Outcomes 
 This project helps you get comfortable with:
 ✔ React + TypeScript basics
 ✔ Context API for global state
